@@ -89,6 +89,10 @@
 
 多维贡献、周期作废或跨 IP 身份都不能自动消除操纵。身份核验和投票也不替代权利判断、财务记录或责任承担。
 
+## 服务与执行边界
+
+入口的托管范围、任务邀约、商业使用协调、维权支持及维护者约束，统一见[轻量入口与任务协作](SERVICES_AND_TASKS.md)。贡献身份、推荐权重与实际任务或资助审批分别处理。
+
 ## English summary
 
 Three Thousand Worlds explores voluntary cooperation among independently operated IP sites. Shared support resources and contribution-based voting remain proposals, not live services.
