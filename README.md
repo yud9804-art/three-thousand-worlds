@@ -51,6 +51,10 @@ IP sites may operate independently and voluntarily join shared initiatives. A su
 
 The entry point is intended for navigation and collaboration information. Scoped tasks, permission coordination and rights-support requests are described in the [services proposal](docs/SERVICES_AND_TASKS.md). These services are not live; work, income and legal funding are not guaranteed.
 
+## Author's writing
+
+[Preface to The Death of Capitalism — 子叶 (Chinese)](essays/THE_DEATH_OF_CAPITALISM_PREFACE.zh-CN.md) shares the author's personal writing background. It is not a community position or a condition of participation.
+
 ## Start here
 
 - [Shenjin pilot](projects/shenjin/README.md)
