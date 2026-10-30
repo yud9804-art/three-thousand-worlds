@@ -1,8 +1,8 @@
 # 创作方向与开放边界
 
-整理日期：2026-10-31｜文档修订：v0.1.1
+更新日期：2026-10-31｜文档修订：v0.1.2
 
-本文件提炼《申金开源建议》对话，并结合三千世界当前定位整理。它是创作方向说明，不是新增许可、免责条款或收益协议。未公开完整聊天，也未收录私人顾虑、核心剧情和未确认的法律建议。
+本文件说明三千世界的创作方向与开放边界，不新增许可、免责条款或收益协议。
 
 ## 1. 当前方向
 
@@ -64,13 +64,11 @@
 
 这只是可选创作工具，不是所有投稿的考核标准，也不是独立科研项目的立项。
 
-## 7. 本轮不推进的方向
+## 7. 当前建设范围
 
-对话中曾探讨把项目扩展为文明模型研究框架，并涉及组织、注册地与治理设计。对话最后明确将工作重点收回创作。
+当前工作聚焦作品、明确许可的创作资源和协作入口。现实制度设计、文明研究机构与现实倡议组织不列入当前建设任务；世界观推演方法仅作为创作参考。
 
-因此，当前不把现实制度设计、文明研究机构或现实倡议组织列入建设任务；不因这次归档新增公司注册、研究板块或复杂治理系统的要求。此前讨论的模型整理方法仅作为创作参考保留。
-
-未来如要改变项目范围，应另行提出明确方案；不能把早期对话中的探索性建议当作已经作出的承诺。
+新增组织、治理或研究功能应以具体需求和明确方案为依据，不作为参与创作的前置条件。
 
 ## 8. 简单网站应回答的问题
 
@@ -86,12 +84,8 @@
 
 本说明补充白皮书的创作重心，不改变三千世界的多 IP 定位，不提前实施分配、投票或授权机制。
 
-## 来源与整理方式
-
-来源为发起人指定的 ChatGPT 对话《申金开源建议》。整理时区分了发起人的选择、助手提出的方案和后续收缩方向；采用最后明确的创作优先方向，不把早期助手建议直接视为项目决策。这里公开可独立阅读的提炼文本，不依赖私人聊天链接。
-
 ## English summary
 
 Stories come first. Shenjin may explore power, technology, resources and institutions through fiction, while readers remain free to interpret it differently. Authors retain creative control of their original works; fan-work permissions and commercial rights must be stated separately.
 
-Independent fictional worlds need not share Shenjin's assumptions. Earlier discussion of a civilization-research framework is not a current delivery commitment. The immediate priorities are the story, clearly licensed creative resources and a simple public entry point.
+Independent fictional worlds need not share Shenjin's assumptions. A civilization-research institution is outside the current scope. The immediate priorities are the story, clearly licensed creative resources and a simple public entry point.

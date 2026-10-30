@@ -8,7 +8,7 @@
 
 Three Thousand Worlds is an early-stage initiative for independent IP rights holders and creators worldwide. It explores collaboration across multiple story worlds while keeping each IP's rights and commercial authorization decisions with its rights holders.
 
-**Version: v0.1 · 2026-10-31 · Public discussion draft**
+**Version: v0.1.2 · 2026-10-31 · Public discussion draft**
 
 The first pilot is **Shenjin (《申金》)**. “Parallel Universes” describes alternative story branches and interpretations within an IP; it is not a separate platform.
 
@@ -39,10 +39,14 @@ The full v0.1 proposal is currently in Chinese. This English introduction is a s
 
 Stories come first. Readers may interpret works differently; participation does not require agreement with the author's worldview. We are currently developing creative works and collaboration, rather than a real-world civilization-research institution. See [Creative direction](docs/CREATIVE_DIRECTION.md) for the Chinese summary and an English overview.
 
+## Current operating focus
+
+With the initial documentation published, the main effort goes into writing and promoting Shenjin. Readers should find the story and reading entry points; creators should find resources, permissions and collaboration information. Platform work focuses on actual feedback and pilot needs. See the [roadmap](ROADMAP.md) for conditions for adding features.
+
 ## Start here
 
 - [Shenjin pilot](projects/shenjin/README.md)
 - [Pilot creation guide — proposed scope](projects/shenjin/CREATION_GUIDE.md)
-- [v0.1 changes](CHANGELOG.md)
+- [Changelog](CHANGELOG.md)
 
 Public plans and updates will be recorded here. No launch date or financial return is promised.
