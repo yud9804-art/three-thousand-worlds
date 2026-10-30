@@ -35,6 +35,10 @@ Read the [contribution guide](CONTRIBUTING.md), then open an [issue](https://git
 
 The full v0.1 proposal is currently in Chinese. This English introduction is a summary. Translations are welcome and will be reviewed before being treated as reference versions.
 
+## Creative focus
+
+Stories come first. Readers may interpret works differently; participation does not require agreement with the author's worldview. We are currently developing creative works and collaboration, rather than a real-world civilization-research institution. See [Creative direction](docs/CREATIVE_DIRECTION.md) for the Chinese summary and an English overview.
+
 ## Start here
 
 - [Shenjin pilot](projects/shenjin/README.md)
